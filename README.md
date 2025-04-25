@@ -10,6 +10,7 @@ Features:
 Basic CRUD Operations: Create, Read, Update, and Delete operations for handling data.
 
 Design Patterns:
+CQRS Pattern
 Repository Pattern
 Service Pattern
 Decorator Pattern

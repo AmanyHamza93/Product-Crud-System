@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "12zjT5K8z4GYO5Co4V0dpwdOKNWPli2s9Z5GOj1Ot8Q=",
+  "Source": "Plugin",
+  "BasePath": "_content/Plugin",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
